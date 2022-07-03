@@ -1,0 +1,5 @@
+ /*تكملة التكليفات في الاسبوع التامن في درس السلكتور التكليف رقم سبعة */
+ 
+ div div:not(.no-need-2 div:nth-last-of-type(2)):not(.no-need div:nth-last-of-type(2)):not(div div.no-need + div):not(div p + div):nth-last-of-type(2) {
+    color: red;
+}
